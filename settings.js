@@ -2,8 +2,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "50931461936"
-global.ownername = "🌹⃟⃢👑 ĐÆ𝚪𝐊༒𝙎-𝙏𝞢𝞜🌹⃟⃢👑"
+global.ownernomer = "50940933625"
+global.ownername = "꧁𓊈𒆜𝚻𝚯𝚮𝐊𝚫 𝐃𝚵𝛁𝚰𝐋’𝐒 𒆜𓊉꧂"
 global.ytname = "DRK_ST_Tech"
 global.socialm = "GitHub: DRK-S-TEN"
 global.location = "America, Haiti, Port-au-Prince"
@@ -14,7 +14,7 @@ global.botname = 'DRK_ST_BUG' //name of the bot
 
 //sticker details
 global.packname = '🗾'
-global.author = '𝙎-𝙏𝞢𝞜'
+global.author = '꧁𓊈𒆜𝚻𝚯𝚮𝐊𝚫 𝐃𝚵𝛁𝚰𝐋’𝐒 𒆜𓊉꧂'
 
 //console view/theme
 global.themeemoji = '🗾'
@@ -33,7 +33,7 @@ global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = true //auto view status/story
+global.autoswview = true//auto view status/story
 
 //menu type 
 //v1 is image menu, 
